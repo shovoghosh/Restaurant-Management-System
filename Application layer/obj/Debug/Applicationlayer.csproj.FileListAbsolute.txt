@@ -1,0 +1,50 @@
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\bin\Debug\Application layer.exe.config
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\bin\Debug\Application layer.exe
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\bin\Debug\Application layer.pdb
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Applicationlayer.csprojResolveAssemblyReference.cache
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.AdminHome.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.BillPage.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.CustomerHome.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.CustomerRegistration.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.Login.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.ManageAdmin.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.ManageCustomer.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.ManageFood.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.ManageSales.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.Properties.Resources.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Applicationlayer.csproj.GenerateResource.Cache
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application layer.exe
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application layer.pdb
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.AProfile.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.CProfile.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.ManageOwner.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.OProfile.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.OwnerHome.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\bin\Debug\RMS.mdf
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\bin\Debug\RMS_log.ldf
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\bin\Debug\Repository.dll
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\bin\Debug\Repository.pdb
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.AllAdmin.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.AllCustomers.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.AManageCustomer.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.AManageFood.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.AManageOrder.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.AManageOwner.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.AManageSales.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.ASalary.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.COrderHistory.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.FoodPage.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.ManageOrder.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.AddCategory.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.AddProduct.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.UpdateProucts.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.ViewAllProducts.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.ViewSaleItems.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.ViewSales.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.UpdateCategorys.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.Asetting.resources
+C:\Users\Nikon\Desktop\Our Project\Restaurant Management System\Application layer\obj\Debug\Application_layer.FoodOption.resources
+E:\C# Project Files\Our Project\Restaurant Management System\Application layer\bin\Debug\Application layer.exe.config
+E:\C# Project Files\Our Project\Restaurant Management System\Application layer\obj\Debug\Application layer.exe
+E:\C# Project Files\Our Project\Restaurant Management System\Application layer\obj\Debug\Application layer.pdb
